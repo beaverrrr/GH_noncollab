@@ -3,7 +3,7 @@ def hello_world(city: str):
 
 
 def main():
-    print('Hello World')
+    hello_world('Baltimore')
 
 
 main()
